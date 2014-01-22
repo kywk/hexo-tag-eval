@@ -1,0 +1,44 @@
+{
+  "name": "hexo-tag-eval",
+  "version": "0.0.1",
+  "description": "Execute helper in post",
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kywk/hexo-tag-eval.git"
+  },
+  "keywords": [
+    "website",
+    "blog",
+    "cms",
+    "framework",
+    "hexo"
+  ],
+  "author": {
+    "name": "Moo Cow",
+    "email": "kywk.id@gmail.com",
+    "url": "kywk"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://raw.github.com/kywk/hexo-tag-eval/master/LICENSE"
+  },
+  "engines": {
+    "hexo": "*"
+  },
+  "dependencies": {
+    "async": "*"
+  },
+  "readme": "This plugin allow user execute Hexo helper in post.\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/kywk/hexo-tag-eval/issues"
+  },
+  "_id": "hexo-tag-eval@0.0.1",
+  "_from": "hexo-tag-eval@",
+  "homepage": "https://github.com/kywk/hexo-tag-eval",
+  "dist": {
+    "shasum": "b0773457a1badeb23b703bb8e4ce7d93a4e79b71"
+  },
+  "_resolved": "git://github.com/kywk/hexo-tag-eval.git#8816a401dc4ed0739af46188d477c9530b67265f"
+}
